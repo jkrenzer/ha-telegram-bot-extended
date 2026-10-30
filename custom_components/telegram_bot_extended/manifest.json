@@ -1,0 +1,12 @@
+{
+  "domain": "telegram_bot_extended",
+  "name": "Telegram Bot Extended",
+  "codeowners": [
+    "@jkrenzer"
+  ],
+  "documentation": "https://github.com/jkrenzer/ha-telegram-bot-extended",
+  "issue_tracker": "https://github.com/jkrenzer/ha-telegram-bot-extended/issues",
+  "iot_class": "local_push",
+  "requirements": [],
+  "version": "0.1.0"
+}
