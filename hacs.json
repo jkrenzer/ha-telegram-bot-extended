@@ -1,0 +1,9 @@
+{
+  "name": "Telegram Bot Extended",
+  "content_in_root": false,
+  "domains": [
+    "telegram_bot_extended"
+  ],
+  "homeassistant": "2024.1.0",
+  "render_readme": true
+}
